@@ -7,6 +7,10 @@ clone of kickstarter
 - Santhosh Damodharan  - N01311350
 - Kamilla Usmanova - N01329511
 
+## Screenshot of the section clonned from kickstarter 
+https://github.com/santhoshdevapps/HomeWork_1/blob/master/screenshot/Screen%20Shot%20of%20section%20clonned.png
 
 ## Screenshot of the section worked 
+https://github.com/santhoshdevapps/HomeWork_1/blob/master/screenshot/Screen%20Shot%20of%20more%20to%20explore.png
+
 
